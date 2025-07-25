@@ -40,7 +40,8 @@ Original color images were:
 
 ## 📉  Confusion Matrix
 
-![Confusion Matrix]()
+<img width="683" height="586" alt="confusion Matrix" src="https://github.com/user-attachments/assets/ef7de43c-b2e2-47eb-bda9-3f184b840213" />
+
 
 ---
 
@@ -48,7 +49,8 @@ Original color images were:
 
 > Add your own screenshot below showing sample predictions during testing.
 
-![Sample Screenshot](sample_prediction_placeholder.png)
+
+<img width="1414" height="393" alt="prediction" src="https://github.com/user-attachments/assets/30cc7d65-bd78-45b4-b418-9812ab2045b2" />
 
 ---
 
